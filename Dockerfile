@@ -7,7 +7,7 @@ COPY src ./src
 RUN ./mvnw install
 CMD ["./mvnw", "spring-boot:run"]
 
-#fish
+#demo
 #test for development branch
 # FROM eclipse-temurin:17-jdk-jammy
 # VOLUME /app
