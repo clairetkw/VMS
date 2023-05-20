@@ -26,10 +26,6 @@
 5. AWS CodePipeline (Github > CodeBuild > AWS Image Repo - ERS > Deploy)
 6. AWS RDS MySQL (Database)
 
-### Pipeline illustration 
-image src: https://vtimd.medium.com/aws-codepipeline-the-good-and-the-bad-2bd607102c2
-![My Image](DeploymentPipeline.png)
-
 ## Team Members
 
 - [Jonathan](https://github.com/goodwill80 "jonathan's github")
